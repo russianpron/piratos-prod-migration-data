@@ -1,0 +1,4559 @@
+{
+  "d642f49606ac5c901a7e7cbebecde32186d9b2d3d493fffeca8987301356cd15": {
+    "user": {
+      "id": 170,
+      "avatar": "male",
+      "ref_code": "3Mm5Os6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6e691532d807fb2412dac9894527a1de2d3fed816bb5c73ea0fea234ed8f7bc": {
+    "user": {
+      "id": 150,
+      "avatar": "male",
+      "ref_code": "4Br0Xi7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63ec4b49480fd597d33e0606c7e35069803933ead66f2b796d5bf49c565bd4f": {
+    "user": {
+      "id": 203,
+      "avatar": "male",
+      "ref_code": "4Wt8Sh4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6927bb06bb60f09ddc433a9db3a18388bb1c853b23430f21dce0d60bd6c7d24": {
+    "user": {
+      "id": 213,
+      "avatar": "male",
+      "ref_code": "2Zu6Ob2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d1d5625de2f868ad9ee7c226fd6e6fdd68824fab159d120768a568c0a7c608": {
+    "user": {
+      "id": 707,
+      "avatar": "male",
+      "ref_code": "4Sr7Jx1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61def0e03d5c560132022e12592443198f7f46d4114acd87247c4022e228145": {
+    "user": {
+      "id": 985,
+      "avatar": "male",
+      "ref_code": "1Qb7Gz0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61a5b79267bc9c267225625d3594afeb571f3555cec28894b7b77a2b8f6abac": {
+    "user": {
+      "id": 3543,
+      "avatar": "male",
+      "ref_code": "1Ud8Xj5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6730c7a5414026e2b45d23b30bfd8885c2e6d5a69e20d69a0e8021dc0b7b4ba": {
+    "user": {
+      "id": 2411,
+      "avatar": "male",
+      "ref_code": "3Us1Si1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d69de9065c8f1ae8c44a851abaadf1abfac8c6836c795f6fa29541181076aa1c": {
+    "user": {
+      "id": 3642,
+      "avatar": "male",
+      "ref_code": "2Ur2Te5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65f0673e830b4d77e0405757ad955bbc78e2e48af362731c5f2559e6733487a": {
+    "user": {
+      "id": 13454,
+      "avatar": "male",
+      "ref_code": "1Dr6Pn2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d608c9070b01cd695fa857fbc909168556bc173a602b9b7c9899acad727ad808": {
+    "user": {
+      "id": 5118,
+      "avatar": "male",
+      "ref_code": "6Iv6Yc7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d636ce0dd0635507e43b391b323840de2656807bac02bc31ee4cc1dba66fed66": {
+    "user": {
+      "id": 4124,
+      "avatar": "male",
+      "ref_code": "0Kn4Bp0",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d682e8a931b906da4507b6957402fee04fefb7e613dd2e2a8a9665f03c1d7b7d": {
+    "user": {
+      "id": 5626,
+      "avatar": "male",
+      "ref_code": "1Bv5Wg3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a796d77c6f1892ded28b439d3e160614d871a2c1caca969613dbe2cae51822": {
+    "user": {
+      "id": 7279,
+      "avatar": "male",
+      "ref_code": "0Vq9Fs6",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d66993b9e9729419b1fe7297eac03a8f2724cc91ceefc104f632e9488c89f996": {
+    "user": {
+      "id": 7508,
+      "avatar": "male",
+      "ref_code": "4Ep4Bg5",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61e83d99cf1ce50d43e63325137a514d65bb61bc5d61821c74a11ac5a8facc1": {
+    "user": {
+      "id": 7424,
+      "avatar": "male",
+      "ref_code": "3Aj8Xz0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d643a76eeb544c37145f1ce5650b394fe70358cb470b7d6468e526afd8b87dbb": {
+    "user": {
+      "id": 5853,
+      "avatar": "male",
+      "ref_code": "1Ob2Rx2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6787a86adf792a9a95bd34c6a9fda8f02f346296cf4780f18a24fa55d5ee456": {
+    "user": {
+      "id": 7289,
+      "avatar": "male",
+      "ref_code": "0Ad9Ra2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6e3b5d467233b418e50a230bfac5c80b2d6de7396f0e842838961cb1bb77f38": {
+    "user": {
+      "id": 7220,
+      "avatar": "male",
+      "ref_code": "8Ag9Vz8",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d6abb692531c2377a274b16d8f4b29b1f480ad27fcd06599b6be5edf67ab79": {
+    "user": {
+      "id": 7963,
+      "avatar": "male",
+      "ref_code": "3Ob8Oh9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b44782a07be58d679d56ae4074bc11575cb08fe96396e2e59008479f61880d": {
+    "user": {
+      "id": 11824,
+      "avatar": "male",
+      "ref_code": "2Sv7Qi5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6657956296b43aa3cd2f5f37882345dd7880b83698427fcdf248211e6b4ebd9": {
+    "user": {
+      "id": 8254,
+      "avatar": "male",
+      "ref_code": "3Pi0Up4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d660dca6ed9ddf96da1550d42c7ef80e2972c5a3a35218f6406b7df4c6ba9be9": {
+    "user": {
+      "id": 8378,
+      "avatar": "male",
+      "ref_code": "3Yq4Qj7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d661188b9890f300329c7e9274f54f98ec9bc0bc8a623f66c3f0c1bdd65050d8": {
+    "user": {
+      "id": 8403,
+      "avatar": "male",
+      "ref_code": "3Pz0Dh9",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b3a72f655f879941eabfdf23551bd8dd1dd9522963f9738c318b453a1f9031": {
+    "user": {
+      "id": 11894,
+      "avatar": "male",
+      "ref_code": "2Tf4Up3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6bc67ce60a56a55b53bddcfaa6ae05416fce0f32c3dd64ca3f99dfe573abf76": {
+    "user": {
+      "id": 10148,
+      "avatar": "male",
+      "ref_code": "1Ei3Ur1",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d633d6ec7dbf3cd80677784c0e976ac190c13003aa045c0d9afb579094778b8c": {
+    "user": {
+      "id": 9087,
+      "avatar": "male",
+      "ref_code": "2It0Ii6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b649498b2ca12b787ef6180fea1f6a79ebd4b9db0eed6cb82dc29d6e3a7915": {
+    "user": {
+      "id": 11474,
+      "avatar": "male",
+      "ref_code": "5Ct7Mx1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6324caf2646c7e7c9923abdc554a96edfa8427879312f9f101c22359ac7c93d": {
+    "user": {
+      "id": 11170,
+      "avatar": "male",
+      "ref_code": "9Br2Wx1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6186905b830336a780d385c74528fcef5db41b4fe4f6e351286e8ae07c1ee47": {
+    "user": {
+      "id": 9877,
+      "avatar": "male",
+      "ref_code": "7Ve5Rv5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d8d729b2f0d54e60e8f76329cf9a8a47f58f654f7754e7ec3ac5cf85ef4354": {
+    "user": {
+      "id": 10010,
+      "avatar": "male",
+      "ref_code": "0Bb5Pn6",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6e85c34c78ee29bbf5fdd294a73439d9b85259b590af0bab2fc02b09b7a1691": {
+    "user": {
+      "id": 12135,
+      "avatar": "male",
+      "ref_code": "8Nt1Nf4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6c94f5ccde8cc8fe4ad66913e6e989c4fc491d42d30405f92bcbaaaaa43aabd": {
+    "user": {
+      "id": 14041,
+      "avatar": "male",
+      "ref_code": "7Aq4Vl4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64b5388f450df0757c10677d82e54561f33bda2f325b560581a80b0de1c697b": {
+    "user": {
+      "id": 14745,
+      "avatar": "male",
+      "ref_code": "6Tt0Jv7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6811bb5df8b22b6b91e6c3a4e8f2a3f46c81f519d84e69a313aaa38c1d09b4f": {
+    "user": {
+      "id": 12392,
+      "avatar": "male",
+      "ref_code": "7Zh3Fv1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64e176efc75172a81597bd419d6104601540987a5e6b40c6de3b7ee765c17c1": {
+    "user": {
+      "id": 12550,
+      "avatar": "male",
+      "ref_code": "5Kc9Wm2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62a8e9e4bfdd07f101538adb8c9c27ba83c01d139e097b71caac32a277c1308": {
+    "user": {
+      "id": 12605,
+      "avatar": "male",
+      "ref_code": "0Tu6Sx5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d641b14adf393a26f5598de2dd9da1c28693f35c81612c7216cb880fe52404f1": {
+    "user": {
+      "id": 14667,
+      "avatar": "male",
+      "ref_code": "5Qh2Ah4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6c2cda8a796c4544548ba7433126ed636061ad36c4cb2c6d408cbde9c418c77": {
+    "user": {
+      "id": 14283,
+      "avatar": "male",
+      "ref_code": "3Uc0Qd0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67428ac4de6d62ad8fe9525edd279e74a93d6715502bbcce3f39bf91ec6803b": {
+    "user": {
+      "id": 13193,
+      "avatar": "male",
+      "ref_code": "6Ky3Cz2",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65b414fa9352483801c10152902fa085fd86c770cd1c76eb4d1b4230f1883d4": {
+    "user": {
+      "id": 13214,
+      "avatar": "male",
+      "ref_code": "0Vv9Br9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d68cd6c57c26377569642f5bf9ea108092bb78a992c8813550119376b9f6d7ca": {
+    "user": {
+      "id": 13307,
+      "avatar": "male",
+      "ref_code": "5Kj3Ur2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d672b856015f69d093480ca8b76fd8c986ab210f9d18c424fd101384a4eaba96": {
+    "user": {
+      "id": 12785,
+      "avatar": "male",
+      "ref_code": "4Da1Hi4",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d675b0dc2b9cef248a73e08711d007f111f6c75eecfa4e46ae1444262d93ccac": {
+    "user": {
+      "id": 16459,
+      "avatar": "male",
+      "ref_code": "6Vb7Of2",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b69243dc06630e6166ccac3928d87127ca8acff510ba52e3dc8fb30930dc3d": {
+    "user": {
+      "id": 14462,
+      "avatar": "male",
+      "ref_code": "7Fy1Zh2",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d8dff56e906c71d5fa9681f36c1d3eeda4bf1d67a7d4d2f8091d3173e83c49": {
+    "user": {
+      "id": 15168,
+      "avatar": "male",
+      "ref_code": "6Tt6Wp3",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a9566bcf016766646b3314d6ab4e0a20e7d0e5e368894eeda990e5042f815b": {
+    "user": {
+      "id": 18716,
+      "avatar": "male",
+      "ref_code": "7Ik0Pd3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fcbf76920dd44a21e7d74bf385340f72fcbd2529645453dd662960d0d2fb60": {
+    "user": {
+      "id": 16487,
+      "avatar": "male",
+      "ref_code": "9Fg9Jv0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d60b6cb2bdaf9fba22e199cf0fba3bd05e6fa0ce986e66f08a38156b78d430a5": {
+    "user": {
+      "id": 16616,
+      "avatar": "male",
+      "ref_code": "2Mm1Dv1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67f052391d46b87764798d8f31db48ac685b641bcb4fc072a2f8c88eab95aac": {
+    "user": {
+      "id": 16737,
+      "avatar": "male",
+      "ref_code": "0Ju1Gg4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b62976c4145acfa0faf9c30f89b31889d1f5b2ea9db1ca9f8ff1e738b34f94": {
+    "user": {
+      "id": 17980,
+      "avatar": "male",
+      "ref_code": "5Vd5Eu7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63f1791630f0be3d4fa64a65b15364aa14d2d5d89cc9673485459a445693482": {
+    "user": {
+      "id": 19412,
+      "avatar": "male",
+      "ref_code": "2Aa9Fk4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d66078c70eeb56f36e8509ac2039437a5e800ba66db6dbb2319a226edfb5e2f1": {
+    "user": {
+      "id": 19616,
+      "avatar": "male",
+      "ref_code": "7Ng9Iu4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ed0efb4b2f32e24e83d489b2d58a78021fdb1b3d649df2f72efa932298dd8e": {
+    "user": {
+      "id": 19703,
+      "avatar": "male",
+      "ref_code": "9Ce4Ql2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d87bc640fccf8206db8557f10ee8832c9858aba3c1defc9a8e2788a8d04cf0": {
+    "user": {
+      "id": 19816,
+      "avatar": "male",
+      "ref_code": "2Aa8Lk4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d684c57dc833454e99f0fa25ea4fdcd707b86edf5aaa863185d471b7e2304040": {
+    "user": {
+      "id": 26889,
+      "avatar": "male",
+      "ref_code": "3Qt3Sm6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67bb532c73b88b9843489171dedd668bf78be98517dd2e5e202083942907255": {
+    "user": {
+      "id": 20162,
+      "avatar": "male",
+      "ref_code": "7Ax4Qr6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6410f7395108665605366498844ae98aa9e183473a61374020fc9208b12e581": {
+    "user": {
+      "id": 39793,
+      "avatar": "male",
+      "ref_code": "7Wv9Nx3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b4a928ca674c3d8363146912dc6d2fd926b2cbf6b0a4824e4e02399f9534db": {
+    "user": {
+      "id": 23249,
+      "avatar": "male",
+      "ref_code": "6Sv5Bg3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6641fad55b031d82dc792a24f39b724ee976a818f9c82ef94a549cf495b9761": {
+    "user": {
+      "id": 22983,
+      "avatar": "male",
+      "ref_code": "7Oh2Ub5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61e7ba070cb7465eb20cea7694375542017d0a228e6919d254b66b4ca7116aa": {
+    "user": {
+      "id": 20878,
+      "avatar": "male",
+      "ref_code": "2Fe8Ni4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62f4d41c64b7e869bb5b79b0f198602d5216e7d6602043877f050d78fb07033": {
+    "user": {
+      "id": 20972,
+      "avatar": "male",
+      "ref_code": "9Ub1Ux8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d16475a0a4a890c9c8de01bea2084ab6c13dc3453bf678cadea9d483a8c658": {
+    "user": {
+      "id": 22653,
+      "avatar": "male",
+      "ref_code": "7Eo6Yv5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d69c9062b12a674e4fe4f50e9e8d486fdbf3bb26951a3f6f9b489a1dfb7936ca": {
+    "user": {
+      "id": 21567,
+      "avatar": "male",
+      "ref_code": "6Tu6Ah8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d629b12baf64c7a9d58121d856663d019c90774622bd601f0c6f7bf2f7039899": {
+    "user": {
+      "id": 22952,
+      "avatar": "male",
+      "ref_code": "7Oo6Mh7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d641613a585897412b9f96e81ad5dccbfb74b423096454e631a664e6cfe60b2b": {
+    "user": {
+      "id": 23424,
+      "avatar": "male",
+      "ref_code": "5Et6Sm7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d69da84e0f9daec7fcaabe6ccb1dddaa5ce465e31ab9cabff992308f9117eaec": {
+    "user": {
+      "id": 26961,
+      "avatar": "male",
+      "ref_code": "8My4Vj1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6616d986692247456853921b7b7c52c14fb576673dd3dbe994e3d010dfbbd83": {
+    "user": {
+      "id": 24404,
+      "avatar": "male",
+      "ref_code": "7Hr4Xo1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6eb5cbdc871d8a6e74659c79d0275a01e763b0488fc69e4694ea93063b38405": {
+    "user": {
+      "id": 24433,
+      "avatar": "male",
+      "ref_code": "9Np4Xc2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fc05cd2b862dd4063feee79334738c902b6136b64d9d4d3b4eab8bb58c1ec9": {
+    "user": {
+      "id": 70025,
+      "avatar": "male",
+      "ref_code": "9Qn7Oo1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b5907a7ed322fbd1ae5015b9e2f81e9095fb3b675f64b6b627907f31f47b44": {
+    "user": {
+      "id": 25135,
+      "avatar": "male",
+      "ref_code": "9Yq4Mq8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d66fbc752dcea264de78f627645c9c017afea189b8f2c58b4c100910293ff21e": {
+    "user": {
+      "id": 25190,
+      "avatar": "male",
+      "ref_code": "8Vf6Uf3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63a9d04c7831c193b963908af06c5b962b0f55f1f4601e790dca510ebcf4c0d": {
+    "user": {
+      "id": 25195,
+      "avatar": "male",
+      "ref_code": "2Pp1Hi5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d600359cf592f9219671a0343195ecdb757ccebeb4660c29a2f928a5dc5469a2": {
+    "user": {
+      "id": 25665,
+      "avatar": "male",
+      "ref_code": "3Af6Zv5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d66abd978fbc10bee17382d9c7544db6266559388c93b3527d5ca5a90f62a1e2": {
+    "user": {
+      "id": 25974,
+      "avatar": "male",
+      "ref_code": "2Rw6Kb5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b9f5fd72d8c52019e3db19e861862076c2968f2a04a832cf27309c40f45e12": {
+    "user": {
+      "id": 27788,
+      "avatar": "male",
+      "ref_code": "9Dx1Ce4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a7ae8ad9439ca5437d0dd8d47fdd5dd313679eaaf42e76e51412ac463503a1": {
+    "user": {
+      "id": 26233,
+      "avatar": "male",
+      "ref_code": "8Jh2Pl4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d629909591a8d044787bc4c9552195073dffb4bcfa5c2379b77c61e9ae458527": {
+    "user": {
+      "id": 26376,
+      "avatar": "male",
+      "ref_code": "2Fh9Np3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61b05f3fcce52c53ef9088da580c74b292f4c03c128232edccb6985ae0403f1": {
+    "user": {
+      "id": 26538,
+      "avatar": "male",
+      "ref_code": "7Fu7Lb9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d666ac462e420736ec04a958e973917163938d331cdc5f379246aede7145cb19": {
+    "user": {
+      "id": 28415,
+      "avatar": "male",
+      "ref_code": "1Cy5Fy9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6bb88d28c3221f725ff495d3fb310cf8d034cad4593dd238882220556eb3196": {
+    "user": {
+      "id": 28801,
+      "avatar": "male",
+      "ref_code": "3Uu3Bu7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d69549ae3ed9abd2d164cfee958b57ad29df14ecfdafbe00c4a00b80e48fbe93": {
+    "user": {
+      "id": 29387,
+      "avatar": "male",
+      "ref_code": "9Mb0Iw1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64ebd0418df7ea73c8dd039fa795d558840df42335fa970641817576e469f40": {
+    "user": {
+      "id": 29565,
+      "avatar": "male",
+      "ref_code": "4Et5Jj3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d60bd1234139659f146b74438abfce82518ba183471fc5727845b1eafcb49f21": {
+    "user": {
+      "id": 29577,
+      "avatar": "male",
+      "ref_code": "0Mp5Ue4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f611ae766944ecc6afe75460050dd20dce47d06f454233a7826ae81a03563f": {
+    "user": {
+      "id": 29708,
+      "avatar": "male",
+      "ref_code": "5Cu9Uu5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6546cccc3734d944be2b7ea7c6e6a93de0175f727e2002b5061150edd4cea57": {
+    "user": {
+      "id": 30006,
+      "avatar": "male",
+      "ref_code": "2Ec5En8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61e6bf956ec33ec68d98d6b1bd12d836be9d0d40690733625ff9a9624c7e34d": {
+    "user": {
+      "id": 30309,
+      "avatar": "male",
+      "ref_code": "8Wj3Kb2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63290aa54f313765a89816e89cad84592f7b2398541d83c516acb04b328a8db": {
+    "user": {
+      "id": 30741,
+      "avatar": "male",
+      "ref_code": "6Gt7Eb7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62fdfd16840f10e7d9bb02ad04f782b6362e35648392e8b5b8da0a59d78894f": {
+    "user": {
+      "id": 31098,
+      "avatar": "male",
+      "ref_code": "1Ob4Er7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6657903e1de99d2d93643651963ee07b4d25d691968cf64275666738d37ac32": {
+    "user": {
+      "id": 31136,
+      "avatar": "male",
+      "ref_code": "3Bv1Wv9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f3cf72ba586969e927b7233e4f6f30bc2444da41a61adf2c28889088a210e8": {
+    "user": {
+      "id": 32234,
+      "avatar": "male",
+      "ref_code": "7Kk3Jj7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fa6f63e19ae4091899f0166e2600311c59290b20239c96c852c5929118cb3a": {
+    "user": {
+      "id": 33954,
+      "avatar": "male",
+      "ref_code": "6Ks9Mt7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a9c53dd04b5dfde43a8213f084a2763a69e72811bff455610007712a62fb0a": {
+    "user": {
+      "id": 34263,
+      "avatar": "male",
+      "ref_code": "1Tv2Gp5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f864c81abf6702e4105a23e80c387affb06972def7fe6d403bcff860162ad7": {
+    "user": {
+      "id": 34310,
+      "avatar": "male",
+      "ref_code": "3Sn1Ka3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62bdbac2a9fda000e864c7d987643516b4de842a805c7eee0a46a23b8073324": {
+    "user": {
+      "id": 34659,
+      "avatar": "male",
+      "ref_code": "6Ij9Lz7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6eb8f59aba66e7c8ae8f73c1daef0ae2a72d450f78f5ee1f0a6028a1d94ae59": {
+    "user": {
+      "id": 34668,
+      "avatar": "male",
+      "ref_code": "3Xg7Cy5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d666a8f669e384159867d7144dfd8b947e54572099c98ce96119afcb0a6e4acb": {
+    "user": {
+      "id": 49160,
+      "avatar": "male",
+      "ref_code": "6Fm0Vd4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d681e11b52db8d7e567676b02e0efb7c2ae01990cb60c8b64b4798bd2c66b705": {
+    "user": {
+      "id": 34858,
+      "avatar": "male",
+      "ref_code": "3Uw9Lp3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a89110c62a3e19fc3a56e539f96afb8c8fb5bed4a29fcd29c59310d4fc900d": {
+    "user": {
+      "id": 35577,
+      "avatar": "male",
+      "ref_code": "4Tk1Wr2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65ca32c7d1f04a42b5bb69db0c4a9137f1a99af09b1295ee8b5cf6105d73021": {
+    "user": {
+      "id": 40993,
+      "avatar": "male",
+      "ref_code": "8Yl4Bc1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6c62ea66ae333a975cdc264df88cd0a11054db26a44bcf4f071767cd233910a": {
+    "user": {
+      "id": 40833,
+      "avatar": "male",
+      "ref_code": "1Si9Re5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6e3be6f158417112bad2dd2aea295904914f8c9c6b54c83838acea4dd697a22": {
+    "user": {
+      "id": 37024,
+      "avatar": "male",
+      "ref_code": "9Ya3Ri6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61a5377e6f60ae5e838f7a3287aabac8e375106bfae16d7df1af12d8783f39a": {
+    "user": {
+      "id": 37048,
+      "avatar": "male",
+      "ref_code": "3Ti4Ab9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f6898ffffd4018f1c3fb02463c9703347bf9fd85b6d1863a805d58d5c61192": {
+    "user": {
+      "id": 41586,
+      "avatar": "male",
+      "ref_code": "1Ef7Kc2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d620dc0e5e04c75b16eed3111843622bf7ae889866046cd223da3b196d5ae3e6": {
+    "user": {
+      "id": 37847,
+      "avatar": "male",
+      "ref_code": "2Xk4Rd6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f8d66caab49fcb47fb300d71f42d1381ac18a18a378f3473113896deadf079": {
+    "user": {
+      "id": 38465,
+      "avatar": "male",
+      "ref_code": "0Ib0Pg1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d66670c57ffe047564b9819949098a3eae64e417c4bbb6e82381aa0a2a519177": {
+    "user": {
+      "id": 42051,
+      "avatar": "male",
+      "ref_code": "4Tv4Wv2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6dc0aaf6d5e48c6432ef0b8e31cab03dacd0a41e4c062d4c0acb972d172cc16": {
+    "user": {
+      "id": 36921,
+      "avatar": "male",
+      "ref_code": "7Re5Sy2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61c18633f81215bc83136abba2d72db6bb1266e7a81833cc68a1b27b4d7b6f7": {
+    "user": {
+      "id": 38982,
+      "avatar": "male",
+      "ref_code": "0Rz8Sv6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67e519b601dcdfdc5a9eb8c108de5c41f55182fb47a2155c8b32a4304171697": {
+    "user": {
+      "id": 39236,
+      "avatar": "male",
+      "ref_code": "9Mz1Pn4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64d22612eed7a57927a54c4759ab5da9650fc492c05adf416ca91e4a4dcb5e5": {
+    "user": {
+      "id": 39272,
+      "avatar": "male",
+      "ref_code": "1Bx2Oj6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ec1de94990a2a4be6305a701393ddae1b1a9f9bcbfbf5d9bc7cdc52fea3a43": {
+    "user": {
+      "id": 41737,
+      "avatar": "male",
+      "ref_code": "9Kw4Po8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d52fd75ddb6da3f216e6a6d28c902a68a11753f89f8d249d59597547dd3b19": {
+    "user": {
+      "id": 41088,
+      "avatar": "male",
+      "ref_code": "7Hc9Ww3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6c3c37606257f8aa7c000410dd1a9d1795b49c46fbca3694bfe154d53cf354d": {
+    "user": {
+      "id": 39695,
+      "avatar": "male",
+      "ref_code": "9Qb3Fz8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ff5094e0d0c89d48c117378d7839eee2484ab9286ae7b37f93520622bd6b4b": {
+    "user": {
+      "id": 39792,
+      "avatar": "male",
+      "ref_code": "6Ur7Xs3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65867fc97189373e9337e1b1c099be5c8204650c259244e1194d3daaa6adb5d": {
+    "user": {
+      "id": 39723,
+      "avatar": "male",
+      "ref_code": "3It0Do8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d69e9b18ab52df1d68a8d931c96e4b1f13bc0274ac869d8dfe47b59220642c20": {
+    "user": {
+      "id": 42192,
+      "avatar": "male",
+      "ref_code": "9Zw3If5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6da9856e5aa490b61dfcf5a78ad6730e928199b20c81583cce76e857ab95ef7": {
+    "user": {
+      "id": 52069,
+      "avatar": "male",
+      "ref_code": "2Lb7Vf5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6457e4f0b3c9541a0fdea0d47248d20716b68c71f3101807364a4268bfbec64": {
+    "user": {
+      "id": 42212,
+      "avatar": "male",
+      "ref_code": "3Ce2Sw0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6be55f448c58cb336b51cef6435233aa5e4a44e319cdcd2068020b1b028dc4f": {
+    "user": {
+      "id": 42378,
+      "avatar": "male",
+      "ref_code": "7Iv6Ti5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65a9db051106b123f29537080af624e69ea5f7f76dd684cf8d0a2523819239a": {
+    "user": {
+      "id": 42512,
+      "avatar": "male",
+      "ref_code": "0Zc5Mz2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65a3aa725ee215ed385e41f4726eeb0bc3f704cb95c99fab3a95cd4f1e7722d": {
+    "user": {
+      "id": 42792,
+      "avatar": "male",
+      "ref_code": "3My2Nu1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63d5aa1043121b56680d29e8e912f747d4b1589928f61709dc7c5ce03141c14": {
+    "user": {
+      "id": 50369,
+      "avatar": "male",
+      "ref_code": "7Nk3Kw7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d663d5ee60f34cf3ff2382cb0dc964483790dc3586efb15e4181fbd5cdb3b5f7": {
+    "user": {
+      "id": 43634,
+      "avatar": "male",
+      "ref_code": "3Ic7Bh4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67bb6252dd894c807506d3e5341f550a78faf4c75594ae05771a7aeecff0215": {
+    "user": {
+      "id": 43892,
+      "avatar": "male",
+      "ref_code": "0Mo5Yz9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b3fce28df67b5dc4917a1107df2bc33d53c7a8920d46b891cb703abeaa1e43": {
+    "user": {
+      "id": 44374,
+      "avatar": "male",
+      "ref_code": "0Dw5Op9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d623f263d0701753980eba5c792405dd712d1f833dcd707bdd74f0cd7b1d0510": {
+    "user": {
+      "id": 44567,
+      "avatar": "male",
+      "ref_code": "7Jc4Rc7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f447f705b7f6d31b73ac9e2392f90bad929762930c834320f6a3e37037097e": {
+    "user": {
+      "id": 44833,
+      "avatar": "male",
+      "ref_code": "0Wr9Jm9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d69cebff7d9d9af7cf8a8e78cff58343879bd9b6720371d4847054d7b34173b5": {
+    "user": {
+      "id": 45027,
+      "avatar": "male",
+      "ref_code": "8Sh8Sv1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d674900cc815062c61dffa1acdf5602f3445a2a34d65df186ab27ed7c01b5dca": {
+    "user": {
+      "id": 45574,
+      "avatar": "male",
+      "ref_code": "8Cw9Ef8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d632ea58ea9cb7fda414e6dc31e4eccb56200b2203bf1aae7ff8572b03b8322a": {
+    "user": {
+      "id": 45617,
+      "avatar": "male",
+      "ref_code": "4Vh9Uc9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d60146030d62b0e485b0970fe8ce5b8df4f9c316165242a2d406690e40df1933": {
+    "user": {
+      "id": 45831,
+      "avatar": "male",
+      "ref_code": "7Mr4Sx5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67618526b62aa3d2c45777ab66088aa74056f1dca7b650a3e70d3dbe57293d3": {
+    "user": {
+      "id": 45946,
+      "avatar": "male",
+      "ref_code": "7Wy7Wn8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d609f5321e3b715795f7f841f4e420bb77fb0fba54f9f5612a58734735cb6aed": {
+    "user": {
+      "id": 46065,
+      "avatar": "male",
+      "ref_code": "0Lr9Vs4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6bc1a254116c8b01f66e46b26a13b5fa62c68387816b19aa78c40fd7fa094bb": {
+    "user": {
+      "id": 46067,
+      "avatar": "male",
+      "ref_code": "4Ch8Ah6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d624c8744f2f06a1f2bb18b92d89284f9c0c28e201cf2c4dcdeb8578c143097f": {
+    "user": {
+      "id": 49460,
+      "avatar": "male",
+      "ref_code": "0Ri2Ve6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6363f1b7e490254b8e7bc74e2ef79e09f9b6cf3530274c7c5683adb101c8920": {
+    "user": {
+      "id": 50684,
+      "avatar": "male",
+      "ref_code": "0Bv2Zz5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61cfc979d9f54ba474bf4feb18d7e6510811ccfb1ba123bca37214c053d2124": {
+    "user": {
+      "id": 46684,
+      "avatar": "male",
+      "ref_code": "3Ja5Px4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d622bd8a5f2db3619f75a16eca158c29da301974b6bc8d335c75f0eda5477834": {
+    "user": {
+      "id": 52002,
+      "avatar": "male",
+      "ref_code": "6Yc4Ce2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d676296db03ae2499cdf5ff804f5e2ce97a9003879cee0be4616d611429a6a6c": {
+    "user": {
+      "id": 47664,
+      "avatar": "male",
+      "ref_code": "2Ro6Fp3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d618641c77016d62a309572879d2d114213688fbe089df7ab19423a6bffba136": {
+    "user": {
+      "id": 47840,
+      "avatar": "male",
+      "ref_code": "6Ed3Eo1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6624065fe40888f117c67c0b2eea24c38e3bdfe0e7f4ad2e4af656f6df3d890": {
+    "user": {
+      "id": 47889,
+      "avatar": "male",
+      "ref_code": "0Rl0Lu8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d66e8adebe359e6eac2c1807242aa51186f507b8666641f3f23d295108d63fbd": {
+    "user": {
+      "id": 52535,
+      "avatar": "male",
+      "ref_code": "3Do8Ii8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63876d4ec8bf869a3e414ad39a0e4de2280f19841d8f950e5f97d877ec8c185": {
+    "user": {
+      "id": 52640,
+      "avatar": "male",
+      "ref_code": "3Wc4Te9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d643f31a924c88182666795c967ba48e77299868c98b8a45fc26bae305017edf": {
+    "user": {
+      "id": 52711,
+      "avatar": "male",
+      "ref_code": "0Nh6Bt1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6260cd7e83c1f25942cfd7a57d125dbb6ca5b687b062e806091f8c0c7a4893a": {
+    "user": {
+      "id": 60782,
+      "avatar": "male",
+      "ref_code": "0Gy2Zs5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6af37304dc2dfff2ba37e3104b64548e277124b9fd4ecbc1437c223bd28da44": {
+    "user": {
+      "id": 52935,
+      "avatar": "male",
+      "ref_code": "6Mb6Pq4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65269dffb70051826f7999e9e973a581e5603bfeaa66248176f7bb0ad68bdd7": {
+    "user": {
+      "id": 53106,
+      "avatar": "male",
+      "ref_code": "4Uh4Xx8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6aae1f33e7daeffce71edf6700ee76f80b4397eb80dfe1a88d2b8122ee485f1": {
+    "user": {
+      "id": 53239,
+      "avatar": "male",
+      "ref_code": "8Af3Js5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d60bd2e3786a574ced9ec12848efef140b01d4d92a9df2d313869e6cdb9de960": {
+    "user": {
+      "id": 53298,
+      "avatar": "male",
+      "ref_code": "0Va5Ty9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d8df0947ed19132ad3d01d235244d87f95f9da8f6b2a496818fc9d2de5b10b": {
+    "user": {
+      "id": 53465,
+      "avatar": "male",
+      "ref_code": "5Ca0Ew9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d667c009a30a07677865c1c0379d0e0d889c2912005415e27437c5016a8c50f6": {
+    "user": {
+      "id": 71768,
+      "avatar": "male",
+      "ref_code": "7Js0Jg3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a648a8875c2cb5b8bbc96256eb1128808b2fc487285d01991e567d570a2133": {
+    "user": {
+      "id": 54146,
+      "avatar": "male",
+      "ref_code": "5Fo7Zo0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64aed9b488640e5e3cb870f3035ad15eeb1fac74a40b89d2fd78b0e2040e720": {
+    "user": {
+      "id": 54145,
+      "avatar": "male",
+      "ref_code": "5Ch1Sa8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [
+      {
+        "type": "headdress",
+        "level": "common",
+        "cp": 12,
+        "count": 13,
+        "is_equip": false
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d1d0b5559eacb9b91be2bfedf2a27dc339e3fe935002c0d2de8648e87f3b85": {
+    "user": {
+      "id": 54135,
+      "avatar": "male",
+      "ref_code": "8Yk6Tr2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ff35614b7d1527e0715bc99bd2a6239643347df88232f61523975c90b4b700": {
+    "user": {
+      "id": 54313,
+      "avatar": "male",
+      "ref_code": "6Ts8Mr1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6990d6c6f9624a15b0365fae8620196202b22fabe6fac9d781fa55045433407": {
+    "user": {
+      "id": 62016,
+      "avatar": "male",
+      "ref_code": "8Uk5Wr0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6968df14c7e527623f59d384cddc629abf6213ba425e990d81b656aeab9efed": {
+    "user": {
+      "id": 54433,
+      "avatar": "male",
+      "ref_code": "5Xl3Dg4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6300ae4484b8b285d48cf7b36466f196eca4ee9bcb1c5230cd4ac3e2e7e9b29": {
+    "user": {
+      "id": 54480,
+      "avatar": "male",
+      "ref_code": "7Lm8Ln0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d681dd653f5bc38378fc98476323c0fac91b6f4046bb4fd5e351cb408844bfc7": {
+    "user": {
+      "id": 54784,
+      "avatar": "male",
+      "ref_code": "7Ai0Ab9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64483fad5d8ea7de36a8e7236b0b21184f3deaf4ef61aa5acfa5c5a912e55eb": {
+    "user": {
+      "id": 54823,
+      "avatar": "male",
+      "ref_code": "4Op0Ip6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6afc14dd89d5565c5adb791f48184e5d5589278eeb8da6ae51f0879d68d390d": {
+    "user": {
+      "id": 62446,
+      "avatar": "male",
+      "ref_code": "8Ms3Ds6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f24e3cdf047317294e9a6be9a551f41e5519beeec89914c515a7fc95a52a63": {
+    "user": {
+      "id": 54946,
+      "avatar": "male",
+      "ref_code": "6Rn3An9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65dc4a1397f6fcf35b4ed11926b63c59b9f78213ab12c7790d7ee3ee0392192": {
+    "user": {
+      "id": 55312,
+      "avatar": "male",
+      "ref_code": "7Xk6Gi8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d538ced43653f73ec8ee8ffafd85d6def43e3713000e1ccd9602c810e64d0d": {
+    "user": {
+      "id": 55399,
+      "avatar": "male",
+      "ref_code": "3Ow7Lb9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63251206cae379da0faaf294d53d70581e088c05f726aaafcf3f19099c3c6b5": {
+    "user": {
+      "id": 55520,
+      "avatar": "male",
+      "ref_code": "1Ok4Fg4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6317610c8d31ae8b093f042da613d7119be5457841cc04f3f801c2ab24a72f8": {
+    "user": {
+      "id": 62651,
+      "avatar": "male",
+      "ref_code": "7Lr0Ld8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d8e806ebc73b13f7f125c0807fa16821868a729e25e084f9600e1539e5c0d6": {
+    "user": {
+      "id": 55739,
+      "avatar": "male",
+      "ref_code": "1Ud9Eu3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d68542571a4a551ed23ff194ffca975c80aae9e85f5fc03b49f17d38632f3f18": {
+    "user": {
+      "id": 55751,
+      "avatar": "male",
+      "ref_code": "9Pm7Er3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62189cc339b3f28b7e9660fa7e4d5a5739e1411fa53134b4573595a4a53d2e3": {
+    "user": {
+      "id": 72118,
+      "avatar": "male",
+      "ref_code": "2Ec9Cb2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6346b00f8e5235feaf2c048626f34f61e6852a16363a116f030bf486fd9aaa8": {
+    "user": {
+      "id": 59377,
+      "avatar": "male",
+      "ref_code": "1Ot2Va0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d620b35bebbb1a38613f65cc8821a482a3f25c348799a5ddff96b05a0f8d4fa7": {
+    "user": {
+      "id": 57387,
+      "avatar": "male",
+      "ref_code": "0Jf6Vs9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d633ee21dc547b253dbfff4aed964f13eb420b19e3a0510ca6980d7f0937087f": {
+    "user": {
+      "id": 61084,
+      "avatar": "male",
+      "ref_code": "1Pe9Zr8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6492796ad1b864df64f496382a23ae2b576d84854daa01e3f1dc6b85174da1e": {
+    "user": {
+      "id": 57524,
+      "avatar": "male",
+      "ref_code": "4Tk5Ja4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d651766565a816f780845c71f4998eb89e76a4f83b79de1a701288ac6b59cdfa": {
+    "user": {
+      "id": 57554,
+      "avatar": "male",
+      "ref_code": "5Tc9Er6",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f3b9f557b338d811a26f402b5bbf2b9d43b0fbdbd5e92b1dddadd9b236b2ac": {
+    "user": {
+      "id": 62056,
+      "avatar": "male",
+      "ref_code": "0Tk5Uw7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fd04ef71f4e5c4f6732ad857b67c9e34c2664bafd91f57ddc6ecc3920b3b19": {
+    "user": {
+      "id": 57681,
+      "avatar": "male",
+      "ref_code": "7Fk7Ye8",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ae15a1237c9f9037ae8acdaa74896753b47620bbbc6eb4335aa34c20ce3cc7": {
+    "user": {
+      "id": 57950,
+      "avatar": "male",
+      "ref_code": "7Vj7Pd9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61770d4e887e2a91e3ae3af06e55b997aa6f28cb9dd796af59a0edecdb2ba7b": {
+    "user": {
+      "id": 57958,
+      "avatar": "male",
+      "ref_code": "2Js2Ux6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d643f59378b63d0f420b1916e02d1150f2c7eab765b9e464d3d491f97bcece31": {
+    "user": {
+      "id": 61097,
+      "avatar": "male",
+      "ref_code": "7Qv1Zh7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6568e084782f459d56563f254101af99691054dde59b49fd8a9fee0e16dd9bd": {
+    "user": {
+      "id": 58123,
+      "avatar": "male",
+      "ref_code": "6Ni7Sx1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6c8d5a6a66f03ad74fa39339f6bdc998e6f3462475d914b0cf6bebcc2037e38": {
+    "user": {
+      "id": 58269,
+      "avatar": "male",
+      "ref_code": "3Px7Lv7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d696cfcab981eeebf8f6d657a60ad8d684b07f1ffb8812b59b268bceaad92a7d": {
+    "user": {
+      "id": 60364,
+      "avatar": "male",
+      "ref_code": "4Xo3Ai9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d623cf78a32830336c5ecda7fe32f02748081ceba4fe1dfc11bb485d374eda2c": {
+    "user": {
+      "id": 58763,
+      "avatar": "male",
+      "ref_code": "9Ti2Cd2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62c54107868e6a6e698197374075af3502bdca563df361fde678ab0f1b1ac41": {
+    "user": {
+      "id": 71874,
+      "avatar": "male",
+      "ref_code": "1Aw1Nu7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6cd3a07e1747c29476c07ff4d39190129cdade320c0a8f3c9b077997d739415": {
+    "user": {
+      "id": 63992,
+      "avatar": "male",
+      "ref_code": "2Qu1Wf7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6cf75ce5b5d39c6e52574dff2bc65e5c3cab71d60fac2e7a9106ae30f1b5308": {
+    "user": {
+      "id": 64104,
+      "avatar": "male",
+      "ref_code": "6Xp5Ur8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d68bc03e4e84f8f83e63d70ab4502955e2a2c69002a38a81481cfbd06cf489f5": {
+    "user": {
+      "id": 64135,
+      "avatar": "male",
+      "ref_code": "8Xj4Wa5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d680a5d4172357d40776d7287d16a19ad75e357996e71e83098c214c6a938ca2": {
+    "user": {
+      "id": 64288,
+      "avatar": "male",
+      "ref_code": "1Jy2Cv1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d613947ac94a313cd691049dded878438abcdfbfc4b9aeccbebaf6fcd7b94001": {
+    "user": {
+      "id": 64370,
+      "avatar": "male",
+      "ref_code": "1Lt5Pj2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6bdff99189fe469bf6dd9c3de8398cd253e508fbbcff6f0a85b3c379f05da2e": {
+    "user": {
+      "id": 64433,
+      "avatar": "male",
+      "ref_code": "2Nv8Ba1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fa8eea57cf609b68392d20d0762ecaa80a86d26210bb0e36a7691c9aa987b5": {
+    "user": {
+      "id": 72740,
+      "avatar": "male",
+      "ref_code": "3Eu7Pf7",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d627479d05392264da5ec006280cec4a0eedf19d01039a3f964a68878045335c": {
+    "user": {
+      "id": 73640,
+      "avatar": "male",
+      "ref_code": "3La8Xk3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67598d42458b99058a6e66a3b837f1a7ce1cdd7e52e6a6c97efbb518ac912f2": {
+    "user": {
+      "id": 75672,
+      "avatar": "male",
+      "ref_code": "4Jc0Lv6",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6c918cb1390ae386819d47078b45eb2e6295b657f27071efc369f4e0c80a09e": {
+    "user": {
+      "id": 66593,
+      "avatar": "male",
+      "ref_code": "7Qw4Xv8",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d65dd4ecef95e8fd34f2965b7db3a4be978e651cbec9b386bbece511f030fce8": {
+    "user": {
+      "id": 74360,
+      "avatar": "male",
+      "ref_code": "5My3Ci1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d12b5e9ae54092c45213972e2e3d509fd18cc244b72119ad82ef6101d18ca9": {
+    "user": {
+      "id": 67560,
+      "avatar": "male",
+      "ref_code": "3Lv9Oz0",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6720f6804d2732d3631172f7b632f2837077edd880803643e65d687c3b7f381": {
+    "user": {
+      "id": 74050,
+      "avatar": "male",
+      "ref_code": "5Nx4Hz4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d668891fc91b4be8a954f5c664b01430aa28e842ca1cae605cba916359666a9c": {
+    "user": {
+      "id": 73497,
+      "avatar": "male",
+      "ref_code": "4Pp2Gn5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62c8cc9c5a6c0df0973d22b2c5f4dddde7405ea83b830f92b33ce2a2cd44bb6": {
+    "user": {
+      "id": 68151,
+      "avatar": "male",
+      "ref_code": "5At4Ia4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fef7767e92bb5d17a45cc5a3e0c847f18ab612c08b10cb2724bc3e9435e208": {
+    "user": {
+      "id": 68264,
+      "avatar": "male",
+      "ref_code": "0Vr8Yq5",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64b709f40600504043ad5da29283e54f26ed2fe55578d1ffad0796c9f50aec1": {
+    "user": {
+      "id": 72852,
+      "avatar": "male",
+      "ref_code": "4Zp5Cz4",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [
+      {
+        "type": "headdress",
+        "level": "common",
+        "cp": 12,
+        "count": 1,
+        "is_equip": false
+      }
+    ],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63da513672b1aa47646d3ada56e0860c0f3bda7f4020d1f18d2fce708bd4df3": {
+    "user": {
+      "id": 75199,
+      "avatar": "male",
+      "ref_code": "9Xp3Zs2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ca76d6a0e0d1a3134e5a6a8ed7debc69c6e46ca7bd28bc60718378a84504f9": {
+    "user": {
+      "id": 69329,
+      "avatar": "male",
+      "ref_code": "7Tk4Mi9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6adb31dc6c0d4984def867f30cb1bf88ea3e0cc5cf72d4704bcc6bd1f7a1bf2": {
+    "user": {
+      "id": 75659,
+      "avatar": "male",
+      "ref_code": "9Yx1Cn1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6897e5a47a3dcf6ea36ee65517991fa71dd0e0ad2dc2a61a00d651c7d86da29": {
+    "user": {
+      "id": 69617,
+      "avatar": "male",
+      "ref_code": "3Hf3Xj1",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6098b9e21dce1aa2ec5baa5a1a51d95451914da37f6efdc262cc0e3ee62f382": {
+    "user": {
+      "id": 69716,
+      "avatar": "male",
+      "ref_code": "4Lg6Wx9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d60704b66ecfc708cd736df84552cd95078d8b0e224baf134ee69b3dabd0eff8": {
+    "user": {
+      "id": 69762,
+      "avatar": "male",
+      "ref_code": "8Dh2Lw5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6eefa71a595544b5ecb23f04ceef17f437803c9235ab66e015133394feca4b9": {
+    "user": {
+      "id": 75822,
+      "avatar": "male",
+      "ref_code": "3Gp3Lj0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67b45391d4e98158f246d4fecd8951e177696be3b373bc3b51e4a117c947084": {
+    "user": {
+      "id": 76089,
+      "avatar": "male",
+      "ref_code": "4Xr9Cg9",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63ad1b48c32f5630cb662c61b60b99c57faab3fe1f0fd4a2554de1759280ae2": {
+    "user": {
+      "id": 76238,
+      "avatar": "male",
+      "ref_code": "1Eh2Hq9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f425c9f0e0f7eaa57c0ab28d3b3996390414d17a6a2a9f6a33e0b90b75281f": {
+    "user": {
+      "id": 76484,
+      "avatar": "male",
+      "ref_code": "7Uv5Qr9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d67f67833305c0ba8074e027e17f4679a3ee27e7aa52c15e77be987a3fcffc9f": {
+    "user": {
+      "id": 76606,
+      "avatar": "male",
+      "ref_code": "6Hi9Wr7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6fdd498c01595ff69e10028e4b567db6a234b79777a6eac11b7a2092ff1a43c": {
+    "user": {
+      "id": 77065,
+      "avatar": "male",
+      "ref_code": "7Ql3Zw0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f72bb5d3c2042ba4a282855f90f8f6b75565b9e5afde1707393379c95b9204": {
+    "user": {
+      "id": 83906,
+      "avatar": "male",
+      "ref_code": "0Gx6Na2",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d87f23d2da3e77e796458dcc0bf0292736fdb60257375c509eb2889c7d5e40": {
+    "user": {
+      "id": 78337,
+      "avatar": "male",
+      "ref_code": "0Cs5Lc2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64959475ddc31e3908679b1444eb50ad93313a3a38e744246348f8be1aef2ac": {
+    "user": {
+      "id": 21891,
+      "avatar": "male",
+      "ref_code": "3Xz3Pj4",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d62009a7d9187858bbaab5b33c26d6572641029837a05de7e423169f742aa3b4": {
+    "user": {
+      "id": 78765,
+      "avatar": "male",
+      "ref_code": "0Eu5Wd0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63197fd6e7b745a46afeba90e829337c8f7ce2d36a345a501d0cecd6d78d5c2": {
+    "user": {
+      "id": 79054,
+      "avatar": "male",
+      "ref_code": "8Ga7Wj1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6734ea8a2daf67bfe9b801dbac9c4e75b87d385714fb978b18c5b67853addf8": {
+    "user": {
+      "id": 79084,
+      "avatar": "male",
+      "ref_code": "6Fs2Ua7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d60d606fb2d62a676edc0a18b3977c0e0b81ca13b6ef49845475346e0887f46c": {
+    "user": {
+      "id": 79374,
+      "avatar": "male",
+      "ref_code": "9Df0St1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ce6e615fb233be8466cd754085cf03482856fcb6d52bb5df9c2d03884d0bb3": {
+    "user": {
+      "id": 79483,
+      "avatar": "male",
+      "ref_code": "9Pj2Ri1",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d14ece3afb780e624947c9c58d692071e2c9804bea80c33aa45d5ab21d3cb7": {
+    "user": {
+      "id": 79498,
+      "avatar": "male",
+      "ref_code": "9Qr5Dj4",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d68e201e0d8ce6e93fc6753b720277aeaf7932e9538d3cf6c777dc3871f1bae4": {
+    "user": {
+      "id": 79605,
+      "avatar": "male",
+      "ref_code": "5Ux8Aa5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d685bc76c7d00dad0e789e2b6f8ccbe7e69b5417804dd25f98785952d767e13f": {
+    "user": {
+      "id": 79926,
+      "avatar": "male",
+      "ref_code": "2Nh0Vf3",
+      "from_ref_code": "0",
+      "coin_balance": 0,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d685390fe48c1112b8338131f44be1fef56665dd48cb549f6fb3890e3391db59": {
+    "user": {
+      "id": 8246,
+      "avatar": "male",
+      "ref_code": "0Ip4Xr0",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f807fb84fe5e0a385cbe4fd70a1b81aa16f6935a5ec54ddf9de4e61c24efd7": {
+    "user": {
+      "id": 80657,
+      "avatar": "male",
+      "ref_code": "7Qj8Qz3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d61e5e895bac42294bdbd84b8e6fc8e8e3a3e5b8e7eb73d973227d401e88eccf": {
+    "user": {
+      "id": 7318,
+      "avatar": "male",
+      "ref_code": "0Zp6Vd6",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6b9fc55cd15d0e18ad51e1298f1b7e61d537664cbd2bc240ff058ce6c5326e0": {
+    "user": {
+      "id": 16620,
+      "avatar": "male",
+      "ref_code": "0Tr4Dg2",
+      "from_ref_code": "0",
+      "coin_balance": 20,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6a0e8b213bf061b4edbcc27d51b78aad234e4893a6906bd61e4e6bcb4fe0a05": {
+    "user": {
+      "id": 81202,
+      "avatar": "male",
+      "ref_code": "6Ia9Zo3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6ca08d9fe4d5a87e3029ebb121396b2b6d559e25d3d65ac4754603c56f1e14f": {
+    "user": {
+      "id": 22615,
+      "avatar": "male",
+      "ref_code": "1Vb4Qb0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6af01ae021199ec6b5b6f980123c94d7482ea598ecf8c24d567c0138274d3ad": {
+    "user": {
+      "id": 81726,
+      "avatar": "male",
+      "ref_code": "0Yi4Hn0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6d219f66b14ea20fc00f80e3d9058137c5a34fc61f4609e86dde81dd354eb69": {
+    "user": {
+      "id": 30713,
+      "avatar": "male",
+      "ref_code": "7Lj0Se2",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d63ad15133e0312a28a3197559305220d658aac690b102945efea3a72f126735": {
+    "user": {
+      "id": 82473,
+      "avatar": "male",
+      "ref_code": "2Sj8Bz5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d64d482543ab97b84dee39d28fee4f82af48f9738209d8c7cc287d44ad0f4cec": {
+    "user": {
+      "id": 82845,
+      "avatar": "male",
+      "ref_code": "7Xj2Qg5",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d68ef1956a52382f708a8c6efce9e7febfdfa1297d9b02c7c81a19314488bbd5": {
+    "user": {
+      "id": 58326,
+      "avatar": "male",
+      "ref_code": "9Rz2Ty3",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d633428e00684e1d8b55fa96edcbb1a3e71010e596f9d8ccba5afc093db8d90f": {
+    "user": {
+      "id": 77776,
+      "avatar": "male",
+      "ref_code": "8Rf0Bh9",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6e1908f64f86620c9a371a47bb3172a999e079d04e9e48800452b80b403d1b3": {
+    "user": {
+      "id": 77802,
+      "avatar": "male",
+      "ref_code": "7Nr1Ck0",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  },
+  "d6f84c043bd2569e46684c11cc2456c6d10ba1004ca8dd8ce398289553730290": {
+    "user": {
+      "id": 81673,
+      "avatar": "male",
+      "ref_code": "6Tk5Sm7",
+      "from_ref_code": "0",
+      "coin_balance": 10,
+      "ruby_balance": 0.0,
+      "gold_key_balance": 0,
+      "lottery_ticket_balance": 0,
+      "days_count": 1,
+      "total_cp": 0,
+      "additional_cp": 0,
+      "max_total_cp": 432
+    },
+    "inventory": [],
+    "chests": [],
+    "won_room_ids": []
+  }
+}
